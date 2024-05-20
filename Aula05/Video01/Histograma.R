@@ -21,7 +21,7 @@ temp<-transform(temp, TA=as.numeric(TA),UR=as.numeric(UR),VV=as.numeric(VV),TSR=
 ggplot(data = temp) + geom_histogram(aes(x = TSM))
 
 #Paleta de cores
-ggplot(data = temp) + geom_histogram(aes(x = TSM), color = "black", fill = "green", bins = 15)
+ggplot(data = temp) + geom_histogram(aes(x = TSM), color = "blue", fill = "green", bins = 15)
 
 #Alterando o plano de fundo
 ggplot(data = temp) + geom_histogram(aes(x = TSM), color = "blue", fill = "yellow", bins = 15) + theme_classic()
