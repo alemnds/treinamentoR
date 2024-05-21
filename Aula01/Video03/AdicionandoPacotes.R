@@ -3,11 +3,11 @@
 # Primeira forma: usando o menu "Tools" > "Install packages"
 
 # Segunda forma: no console escrever o comando:
-install.packages(nome do pacote)
+#install.packages(nome do pacote)
 
 #Carregar os pacotes se utiliza o comando:
 
-library(nome do pacote)
+#library(nome do pacote)
 
 # exemplos
 install.packages("ggplot2") #para a geração de graficos
