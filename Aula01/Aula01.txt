@@ -1,0 +1,28 @@
+Videoaula 1 - Instalação do R e R-Studio
+
+https://youtu.be/2Cu0ToykX5Y
+
+Link para instalação do R
+
+https://www.r-project.org/
+
+Link para instalação do R Studio
+
+https://posit.co/download/rstudio-desktop/
+
+
+Videoaula 2 - Apresentação do R e R Studio
+
+https://youtu.be/MfirnMbwEHQ
+
+
+Videoaula 3 - Instalação de pacotes
+
+https://youtu.be/HT4HLc2Qvsg
+
+
+Videoaula 4 - Inserindo dados no R
+
+https://youtu.be/UL7FWNmTJ3g
+
+
